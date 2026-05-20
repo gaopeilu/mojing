@@ -2,7 +2,7 @@
 
 ## 📅 背景信息
 
-**项目**：墨韵智能写作系统（FastAPI + LangGraph + DashScope）  
+**项目**：墨镜 (MoJing) 智能写作分身（FastAPI + LangGraph + DashScope）  
 **时间**：2026-05-17  
 **核心问题**：
 1. 生成大纲时，模型持续输出 1000+ 字，无视提示词约束
